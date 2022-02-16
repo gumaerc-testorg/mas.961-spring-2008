@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a57d864a-39b7-2ccb-3b43-c50782e6cd00
 title: 'Assignment 4: Design Problem 2 - Personal Time-line'
 uid: 0bda54ca-b24b-1cf0-6463-33ec1d843bad

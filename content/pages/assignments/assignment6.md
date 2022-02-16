@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a57d864a-39b7-2ccb-3b43-c50782e6cd00
 title: 'Assignment 6: Design Project 3 - Concrete and Abstract Portraits'
 uid: ecff5637-bea7-179e-1ceb-009939b6068f

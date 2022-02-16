@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a57d864a-39b7-2ccb-3b43-c50782e6cd00
 title: 'Assignment 8: Proposals for Final Project'
 uid: 9d0a8c43-a93d-692d-208a-9f925f3a6b73
