@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the third assignment of the course,
+  including an overview of the topic, readings, instructions for the assignment, and
+  examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +16,7 @@ uid: 1361b4d4-18df-b611-df2e-12b12df2acf3
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -29,7 +32,7 @@ Bonvillain, Nancy. "Communicative Interactions." Chapter 5 in _Language, Culture
 
 Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243519.243535)." _IBM Systems Journal_ 35, nos. 3-4 (1996).
 
-Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
+Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. ([PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
 
 Assignments
 -----------
@@ -71,7 +74,7 @@ Student Work
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

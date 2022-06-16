@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the weekly assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Metaphor and design]({{< baseurl >}}/pages/assignments/assignment1)
+{{% resource_link 9f2123f3-abba-c91a-b267-31129eab35ce "Metaphor and design" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ ASSIGNMENTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Design problem 1: interaction space design]({{< baseurl >}}/pages/assignments/assignment2)
+{{% resource_link de5c7b0b-cd03-a90a-baa4-78077e2ec371 "Design problem 1: interaction space design" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ ASSIGNMENTS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Mapping conversations]({{< baseurl >}}/pages/assignments/assignment3)
+{{% resource_link 1361b4d4-18df-b611-df2e-12b12df2acf3 "Mapping conversations" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Design problem 2: personal time-line project]({{< baseurl >}}/pages/assignments/assignment4)
+{{% resource_link 0bda54ca-b24b-1cf0-6463-33ec1d843bad "Design problem 2: personal time-line project" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ ASSIGNMENTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Varieties of portraiture]({{< baseurl >}}/pages/assignments/assignment5)
+{{% resource_link 587cdfce-8092-a867-e787-194098fb45da "Varieties of portraiture" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ ASSIGNMENTS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Design problem 3: concrete and abstract portraits]({{< baseurl >}}/pages/assignments/assignment6)
+{{% resource_link ecff5637-bea7-179e-1ceb-009939b6068f "Design problem 3: concrete and abstract portraits" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ ASSIGNMENTS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Augmented publics / communicating spaces]({{< baseurl >}}/pages/assignments/assignment7)
+{{% resource_link 95132dbb-53a8-f152-1177-e0c0f39c7641 "Augmented publics / communicating spaces" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ ASSIGNMENTS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Proposal for final project]({{< baseurl >}}/pages/assignments/assignment8)
+{{% resource_link 9d0a8c43-a93d-692d-208a-9f925f3a6b73 "Proposal for final project" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ ASSIGNMENTS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Supertraces: surveillance, privacy, persuasion]({{< baseurl >}}/pages/assignments/assignment9)
+{{% resource_link 7dd56fee-886b-8510-2891-950e46bc38a3 "Supertraces: surveillance, privacy, persuasion" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ ASSIGNMENTS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Completed final projects]({{< baseurl >}}/pages/assignments/assignment10)
+{{% resource_link 75b10ccd-c1db-6430-e834-74e33b5a84bb "Completed final projects" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

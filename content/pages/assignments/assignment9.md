@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the ninth assignment of the course,
+  including an overview of the topic, readings, instructions for the assignment, and
+  examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +16,7 @@ uid: 7dd56fee-886b-8510-2891-950e46bc38a3
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +40,7 @@ Elmer, Greg. "[A Diagram of Panoptic Surveillance](http://nms.sagepub.com/cgi/co
 
 Foucault, Michel. "[Panopticism](http://foucault.info/documents/disciplineAndPunish/foucault.disciplineAndPunish.panOpticism.html)." Chapter 3 in _Discipline & Punish: The Birth of the Prison_. Translated from the French by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 9780679752554. (This is the classic work on "panoptic surveillance.")
 
-Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
+Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ([PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
 
 Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[[Preview](http://books.google.com/books?id=4zzeoi1jU5oC&pg=PA69=onepage) in Google Books\]
 
@@ -63,7 +66,7 @@ Student Work
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

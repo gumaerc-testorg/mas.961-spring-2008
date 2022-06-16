@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the eighth assignment of the course,
+  including an overview of the topic, instructions for the assignment, and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +16,7 @@ uid: 9d0a8c43-a93d-692d-208a-9f925f3a6b73
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +48,7 @@ Student Work
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

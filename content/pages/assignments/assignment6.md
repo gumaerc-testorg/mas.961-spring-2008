@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the sixth assignment of the course,
+  including an overview of the topic, instructions for the assignment, and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +16,7 @@ uid: ecff5637-bea7-179e-1ceb-009939b6068f
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +52,7 @@ Student Work
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Assignments]({{< baseurl >}}/pages/assignments)
+« Back: {{% resource_link a57d864a-39b7-2ccb-3b43-c50782e6cd00 "Assignments" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
