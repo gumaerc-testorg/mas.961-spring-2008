@@ -81,9 +81,9 @@ Aveni, Anthony. "The Basic Rhythms," "The Western Calendar," and "Building on th
 
 Yannick has compiled an extensive collection of personal timeline projects, including:
 
-\- [Personal Pies](http://www.flipflopflyin.com/personalpies/) (not a time based one, but still relevant)    
-\- [Feltrons Annual Report](http://feltron.com/FAR09.html)    
-\- [Ellie Harrison](http://www.ellieharrison.com/_homepage.htm) (several projects here, including "one hour of my life", "tea blog", "daily quantification records")    
+\- [Personal Pies](http://www.flipflopflyin.com/personalpies/) (not a time based one, but still relevant)     
+\- [Feltrons Annual Report](http://feltron.com/FAR09.html)     
+\- [Ellie Harrison](http://www.ellieharrison.com/_homepage.htm) (several projects here, including "one hour of my life", "tea blog", "daily quantification records")     
 \- [Tracking transience](http://www.trackingtransience.com/) (self surveillance as self-protection)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -102,27 +102,27 @@ West, Shearer. "What is a Portrait?" and "The Functions of Portraiture." Chapter
 
 *Examples*
 
-Genetic, biological    
-\- From Paradise Now exhibit catalog, works by Gary Schneider, Kevin Clarke, Nancy Burson, Larry Miller, Steve Miller. \[Web site archived by Internet Archive on December 27, 2007\]    
-\- [Kevin Clarke's portraits](http://www.kevinclarke.com/) (e.g. Friedrich von Schiller, John Cage, from the Blood of Poets)    
-\- [Sir John Sulston: A Genomic Portrait](http://web.archive.org/web/20080116051000/http:/www.ncl.ac.uk/hatton/programme/2002/portraitimagelinks/Quinn.htm) by Marc Quinn \[Web page archived by Internet Archive on January 16, 2008\]    
+Genetic, biological     
+\- From Paradise Now exhibit catalog, works by Gary Schneider, Kevin Clarke, Nancy Burson, Larry Miller, Steve Miller. \[Web site archived by Internet Archive on December 27, 2007\]     
+\- [Kevin Clarke's portraits](http://www.kevinclarke.com/) (e.g. Friedrich von Schiller, John Cage, from the Blood of Poets)     
+\- [Sir John Sulston: A Genomic Portrait](http://web.archive.org/web/20080116051000/http:/www.ncl.ac.uk/hatton/programme/2002/portraitimagelinks/Quinn.htm) by Marc Quinn \[Web page archived by Internet Archive on January 16, 2008\]     
 \- [Gary Schneider](https://www.artsy.net/artist/gary-schneider)
 
-Text    
+Text     
 \- [Felix Gonzalex-Torres](http://web.archive.org/web/20070128112500/http:/members.aol.com/mindwebart3/portrait.htm) \[Web page archived by Internet Archive on January 28, 2007\]
 
-Alternative media    
-\- Jim Campbell, [Portrait of My Mother, Portrait of My Father](http://www.brown.edu/Facilities/David_Winton_Bell_Gallery/covers_campbell_zoom.html)    
-\- Philip Glass portrait of Chuck Close    
-   a) Recording ([MP3](http://mp3-play.eu/?artist=Bruce-Levingston&track=Movement-I-A-Musical-Portrait-of-Chuck-Close))    
-   b) McGrath, Charles. "[A Portraitist Whose Canvas Is a Piano](http://www.nytimes.com/2005/04/22/arts/music/22glas.html?pagewanted=1&n=Top/Reference/Times%20Topics/People/C/Close,%20Chuck)." *The New York Times*, April 22, 2005.    
+Alternative media     
+\- Jim Campbell, [Portrait of My Mother, Portrait of My Father](http://www.brown.edu/Facilities/David_Winton_Bell_Gallery/covers_campbell_zoom.html)     
+\- Philip Glass portrait of Chuck Close     
+   a) Recording    
+   b) McGrath, Charles. "[A Portraitist Whose Canvas Is a Piano](http://www.nytimes.com/2005/04/22/arts/music/22glas.html?pagewanted=1&n=Top/Reference/Times%20Topics/People/C/Close,%20Chuck)." *The New York Times*, April 22, 2005.     
    c) Comita, Jenny. "[Portrait of the Artist: Chuck Close and his Work are the Subject of a New Ballet](https://www.wmagazine.com/story/chuck-close/)." *W Magazine*, November 2007.
 
-Time series    
-\- [Diego Goldberg family portraits: The Arrow of Time](http://zonezero.com/magazine/essays/diegotime/time.html)    
+Time series     
+\- [Diego Goldberg family portraits: The Arrow of Time](http://zonezero.com/magazine/essays/diegotime/time.html)     
 \- [Nicholas Nixon: The Brown Sisters](https://www.sfmoma.org/artwork/2016.516?gclid=EAIaIQobChMI2t-Hns6x2QIVb7ftCh3DDgsOEAMYASAAEgKnePD_BwE)
 
-Material collections    
+Material collections     
 \- [The Grocery List Collection](http://www.grocerylists.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
