@@ -3,7 +3,7 @@ content_type: resource
 description: In Assignment 4, Designing Sociable Media students document their subjective
   experience of a 6-hour span of time. This image is an excerpt from Seth Hunter's
   work. (Courtesy of Seth Hunter. Used with permission.)
-file: /courses/mas-961-special-topics-designing-sociable-media-spring-2008/0eb443ab049de5441334ff1f1ed48e15_mas-961s08-th.jpg
+file: /ol-ocw-studio-app/courses/mas-961-special-topics-designing-sociable-media-spring-2008/0eb443ab049de5441334ff1f1ed48e15_mas-961s08-th.jpg
 file_size: 1904
 file_type: image/jpeg
 image_metadata:
