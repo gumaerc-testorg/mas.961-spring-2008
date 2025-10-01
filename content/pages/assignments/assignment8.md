@@ -39,11 +39,11 @@ Be prepared to talk for about 7 minutes or slightly less - the rest of your time
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/04/ive-seen-quite-few-calls-for-proposals.html)
+{{% resource_link "08e1fe58-9d9d-4ca2-9cf3-b6e1cf7e80d9" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/04/proposal-for-final-project.html)
+{{% resource_link "b72f6506-1577-4cbd-9b1a-0518a09e597b" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/04/proposal-for-final-project.html)
+{{% resource_link "1b53d53c-0787-4381-b09a-7d9d51ab862f" "Lana Swartz" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
