@@ -18,16 +18,16 @@ uid: 0bda54ca-b24b-1cf0-6463-33ec1d843bad
 
 ## Readings
 
-Robinson, John P., and Geoffrey Godbey. "Measuring How People Spend Time." Chapter 4 in *Time for Life: The Surprising Ways Americans Use Their Time*. 2nd ed. University Park, PA: Penn State Press, 1999. ISBN: 9780271019703. \[[Preview](http://books.google.com/books?id=DjsZzPL217kC&pg=PA57=onepage) in Google Books\]
+Robinson, John P., and Geoffrey Godbey. "Measuring How People Spend Time." Chapter 4 in *Time for Life: The Surprising Ways Americans Use Their Time*. 2nd ed. University Park, PA: Penn State Press, 1999. ISBN: 9780271019703. \[{{% resource_link "37a7793f-c125-4792-9898-474f71d55dd4" "Preview" %}} in Google Books\]
 
-Aveni, Anthony. "The Basic Rhythms," "The Western Calendar," and "Building on the Basic Rhythms." Chapters 1, 3, and 10 in *Empires of Time: Calendars, Clocks, and Culture*. Revised ed. Boulder, CO: University Press of Colorado, 2002. ISBN: 9780870816727. \[[Preview](http://books.google.com/books?id=-QcE2pBCLE8C&pg=PA17=onepage) in Google Books\]
+Aveni, Anthony. "The Basic Rhythms," "The Western Calendar," and "Building on the Basic Rhythms." Chapters 1, 3, and 10 in *Empires of Time: Calendars, Clocks, and Culture*. Revised ed. Boulder, CO: University Press of Colorado, 2002. ISBN: 9780870816727. \[{{% resource_link "7aeca78e-fc5d-4558-844b-71544f93c842" "Preview" %}} in Google Books\]
 
 Yannick has compiled an extensive collection of personal timeline projects, including:
 
 - Personal Pies (not a time based one, but still relevant)
-- [Feltrons Annual Report](http://feltron.com/FAR09.html)
-- [Ellie Harrison](http://www.ellieharrison.com/_homepage.htm) (several projects here, including "one hour of my life," "tea blog," and "daily quantification records")
-- [Tracking transience](http://www.trackingtransience.com/) (self surveillance as self-protection)
+- {{% resource_link "220e815e-2b7b-484c-85e2-6558319b310a" "Feltrons Annual Report" %}}
+- {{% resource_link "5e366195-ed1a-4ecd-a9e8-47f1f381563b" "Ellie Harrison" %}} (several projects here, including "one hour of my life," "tea blog," and "daily quantification records")
+- {{% resource_link "34b77341-330c-430d-9f0d-b71946d49bcb" "Tracking transience" %}} (self surveillance as self-protection)
 
 ## Assignment
 
@@ -42,11 +42,11 @@ Yannick has compiled an extensive collection of personal timeline projects, incl
 
 ## Student Work
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/03/time-memory-representation.html)
+{{% resource_link "7a042896-9adc-49cc-bc70-a1f10d7399e5" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/03/4th-weeks-assignments.html)
+{{% resource_link "96dbb1b6-6f11-4258-92ca-ff8f055fdbb1" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/response-4-time-and-history.html)
+{{% resource_link "f9034af0-4539-4ddb-9523-5168bf836f8e" "Lana Swartz" %}}
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 « Back: {{% resource_link "a57d864a-39b7-2ccb-3b43-c50782e6cd00" "Assignments" %}}

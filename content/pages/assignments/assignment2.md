@@ -30,9 +30,9 @@ How does this translate to virtual spaces? We need to think both about what are 
 Readings
 --------
 
-Donath, Judith, and Fernanda B. Viégas. "[The Chat Circles Series: Explorations in Designing Abstract Graphical Communication Interfaces](http://portal.acm.org/citation.cfm?id=778712.778764)." Proceedings of the 4th Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques. ACM, 2002.
+Donath, Judith, and Fernanda B. Viégas. "{{% resource_link "0f9c5a50-2e04-433f-8ce0-0375cce18fe8" "The Chat Circles Series: Explorations in Designing Abstract Graphical Communication Interfaces" %}}." Proceedings of the 4th Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques. ACM, 2002.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262540292) Dondis, Donis A. "Composition: The Syntactical Guidelines for Visual Literacy," and "The Basic Elements of Visual Communication." Chapters 2 and 3 in _A Primer of Visual Literacy_. Cambridge, MA: MIT Press, 1974. ISBN: 9780262540292. \[[Preview](http://books.google.com/books?id=rrf5SisMzQgC&pg=PA20=onepage) in Google Books\]
+{{% resource_link "393e7d3c-7c2e-4ad4-8ca4-b3d8104c7dc5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dondis, Donis A. "Composition: The Syntactical Guidelines for Visual Literacy," and "The Basic Elements of Visual Communication." Chapters 2 and 3 in _A Primer of Visual Literacy_. Cambridge, MA: MIT Press, 1974. ISBN: 9780262540292. \[{{% resource_link "6cd554c1-ac6a-421d-9b32-e34a601992f2" "Preview" %}} in Google Books\]
 
 Assignment
 ----------
@@ -56,11 +56,11 @@ Assignment
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/02/response-2-interactive-comedia-shared.html)
+{{% resource_link "b671f787-0200-4d81-9f55-19d81eb1a272" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/02/2nd-weeks-assignments.html)
+{{% resource_link "2267451f-529e-4bc9-86e5-e6a01ef0a784" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/02/response-2-legibility-and-abstraction.html)
+{{% resource_link "50c90849-add4-4334-a1cf-5baf7a16ee15" "Lana Swartz" %}}
 
 {{< tableopen >}}
 {{< tropen >}}

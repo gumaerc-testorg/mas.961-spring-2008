@@ -30,9 +30,9 @@ Readings
 
 Bonvillain, Nancy. "Communicative Interactions." Chapter 5 in _Language, Culture and Communication_. 5th ed. East Rutherford, NJ: Prentice Hall, 2007. ISBN: 9780135135686.
 
-Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243519.243535)." _IBM Systems Journal_ 35, nos. 3-4 (1996).
+Small, David. "{{% resource_link "bc349640-19d5-4b30-ab28-63b8bb9b0519" "Navigating Large Bodies of Text" %}}." _IBM Systems Journal_ 35, nos. 3-4 (1996).
 
-Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. ([PDF - 1.1MB](http://smg.media.mit.edu/papers/Donath/conversationworkshop.pdf))
+Donath, Judith. "Words as Landscape." Draft of paper prepared for _Beyond Threaded Conversation_, CHI Workshop, Portland, OR, April 3, 2005. ({{% resource_link "17aa1b2f-8bcf-4248-9cbc-e4db097bae6e" "PDF - 1.1MB" %}})
 
 Assignments
 -----------
@@ -65,11 +65,11 @@ Assignments
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/03/online-offline-conversation.html)
+{{% resource_link "1cae0111-856f-44d0-a9ce-89b67dfe7243" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/03/3rd-weeks-assignments.html)
+{{% resource_link "5fcd7991-ab9a-4ef9-b4aa-d6542609d629" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/response-3-mapping-conversations.html)
+{{% resource_link "4d1d0cb4-47c9-405d-94a7-fca0d1f544e7" "Lana Swartz" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
