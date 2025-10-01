@@ -29,11 +29,11 @@ Since metaphors limit as well as empower, it behooves the designer to choose the
 
 ## Readings
 
-Hollan, Jim, and Scott Stornetta. "[Beyond Being There](http://portal.acm.org/citation.cfm?id=142769)." Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 1992.
+Hollan, Jim, and Scott Stornetta. "{{% resource_link "c56b682b-85f8-49c9-8e1c-fa6153129359" "Beyond Being There" %}}." Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 1992.
 
 Lakoff, George, and Mark Johnson. "The Grounding of Structural Metaphors," "Causation: Partly Emergent and Partly Metaphorical," and "The Coherent Structuring of Experience." Chapters 13-15 in *Metaphors We Live By*. Chicago, IL: University of Chicago Press, 1980, pp. 61-86. ISBN: 9780226468013.
 
-Arnheim, Rudolf. "The Intelligence of Visual Perception \[i\]," and "The Intelligence of Visual Perception \[ii\]." Chapters 2 and 3 in *Visual Thinking*. Berkely, CA: University of California Press, 2004, pp. 13-53. ISBN: 9780520242265. \[[Preview](http://books.google.com/books?id=DWmtB9szhFsC&pg=PA14=onepage) in Google Books.\]
+Arnheim, Rudolf. "The Intelligence of Visual Perception \[i\]," and "The Intelligence of Visual Perception \[ii\]." Chapters 2 and 3 in *Visual Thinking*. Berkely, CA: University of California Press, 2004, pp. 13-53. ISBN: 9780520242265. \[{{% resource_link "0ac46989-8a63-4b50-a1d5-50451c1dfc05" "Preview" %}} in Google Books.\]
 
 Norman, Donald. "The Psychology of Everday Actions." In *The Design of Everyday Things*. New York, NY: Basic Books, 2002. ISBN: 9780465067107.
 
@@ -52,11 +52,11 @@ Norman, Donald. "The Psychology of Everday Actions." In *The Design of Everyday 
 
 ## Student Work
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/02/response-1-social-metaphors.html)
+{{% resource_link "469b09d6-36b2-4f3e-91fd-d8abb8c3dd12" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/02/1st-weeks-assignment.html)
+{{% resource_link "c6278a20-e511-43eb-9275-c684ec812c39" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/02/response-1-metaphor-in-social.html)
+{{% resource_link "4fe7afe0-0c45-487c-b067-f9985557bb2f" "Lana Swartz" %}}
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 « Back: {{% resource_link "a57d864a-39b7-2ccb-3b43-c50782e6cd00" "Assignments" %}}
