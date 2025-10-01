@@ -32,7 +32,7 @@ Technology also makes new forms of portraiture possible. Machines can take the p
 Assignment
 ----------
 
-Create two portraits of a single person. Preferably you should work with a (willing) subject, but I will also accept portraits done of subjects w/out their knowledge (e.g. [Andy Warhol's celebrity portraits](http://moma.org/collection/browse_results.php?object_id=79737)).
+Create two portraits of a single person. Preferably you should work with a (willing) subject, but I will also accept portraits done of subjects w/out their knowledge (e.g. {{% resource_link "caf4625f-70bf-482e-947a-26e5d6ac8ed5" "Andy Warhol's celebrity portraits" %}}).
 
 One portrait should be representational, based on the physical appearance of the subject. And one should be based on data about or produced by the subject.
 
@@ -43,11 +43,11 @@ As you are working, please keep the questions we discussed last week in mind. Wh
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/04/information-portraits-two-ideas.html)
+{{% resource_link "e0dbfd02-10b7-4e5d-9502-02c3440c707e" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/03/design-problem-3-concrete-and-abstract.html)
+{{% resource_link "f76c32b0-957d-4029-9314-d56b56b41d52" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/data-portraits-depicting-people.html)
+{{% resource_link "32b8705e-45ee-46d1-aab9-ff92a3164fd7" "Lana Swartz" %}}
 
 {{< tableopen >}}
 {{< tropen >}}

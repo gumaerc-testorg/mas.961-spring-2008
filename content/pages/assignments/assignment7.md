@@ -36,9 +36,9 @@ Readings
 
 Milgram, Stanley. "The Experience of Living in Cities." _Science, New Series_ 167, no. 3924 (March 13, 1970): 1461-1468.
 
-Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. ([PDF](http://smg.media.mit.edu/papers/Donath/EverydayInteractions.finaldraft.pdf))
+Donath, Judith. "Technological Interventions in Everyday Interaction." Essay written for the catalog of the _Act/React_ show at the Milwaukee Art Museum. 2008. ({{% resource_link "b60de9aa-c193-48a1-bf49-27c0a040dca7" "PDF" %}})
 
-Ling, Richard. "[The Social Juxtaposition of Mobile Telephone Conversations and Public Spaces](http://www.academia.edu/1048257/The_social_juxtaposition_of_mobile_telephone_conversations_and_public_spaces)." Paper for conference on the Social Consequences of Mobile Telephones, Chunchon, Korea, July 2002.
+Ling, Richard. "{{% resource_link "cec9c06e-f8cc-42c8-969e-8d499e01bf6e" "The Social Juxtaposition of Mobile Telephone Conversations and Public Spaces" %}}." Paper for conference on the Social Consequences of Mobile Telephones, Chunchon, Korea, July 2002.
 
 Assignment
 ----------
@@ -50,11 +50,11 @@ Assignment
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/04/augmented-interaction-communication.html)
+{{% resource_link "e9e8f3c8-7387-4173-b03c-4a631aabe180" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/04/assignment-augmented-interaction-part-1.html)
+{{% resource_link "ef49c36c-7eca-498a-956c-9eab04fcdd9b" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/04/augmented-interaction-1-cities-art-and.html)
+{{% resource_link "13422ed4-1d63-449f-8d3a-b2511cc76fee" "Lana Swartz" %}}
 
 {{< tableopen >}}
 {{< tropen >}}

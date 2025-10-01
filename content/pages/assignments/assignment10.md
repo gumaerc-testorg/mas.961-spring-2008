@@ -25,8 +25,8 @@ uid: 75b10ccd-c1db-6430-e834-74e33b5a84bb
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/05/gestural-voting-system-public-interface.html)
+{{% resource_link "d3fd1ad0-f158-437d-b7c1-438490d3a190" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/05/final-presentation.html)
+{{% resource_link "ad9d9213-a13f-4f7b-82b4-f19eebb561de" "Sohin Hwang" %}}
 
 Lana Swartz

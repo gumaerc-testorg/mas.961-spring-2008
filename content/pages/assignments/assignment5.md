@@ -27,7 +27,7 @@ Today, technology is transforming both the medium and the subject matter of port
 
 ## Readings
 
-Brilliant, Richard. "Fashioning the Self." Chapter 2 in *Portraiture*. Reaktion Books, 1991. ISBN: 9780948462191. \[[Preview](https://books.google.com/books?id=5WHqAQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) in Google Books\]
+Brilliant, Richard. "Fashioning the Self." Chapter 2 in *Portraiture*. Reaktion Books, 1991. ISBN: 9780948462191. \[{{% resource_link "46226329-dc6b-4604-ae8b-02eee2c563b0" "Preview" %}} in Google Books\]
 
 West, Shearer. "What is a Portrait?" and "The Functions of Portraiture." Chapters 1 and 2 in *Portraiture*. New York, NY: Oxford University Press, 2004. ISBN: 9780192842589.
 
@@ -35,22 +35,22 @@ West, Shearer. "What is a Portrait?" and "The Functions of Portraiture." Chapter
 
 - Genetic, biological
     - From Paradise Now exhibit catalog, works by Gary Schneider, Kevin Clarke, Nancy Burson, Larry Miller, Steve Miller. \[Web site archived by Internet Archive on December 27, 2007\]
-    - [Kevin Clarke's portraits](http://www.kevinclarke.com/) (e.g. Friedrich von Schiller, John Cage, from the Blood of Poets)
-    - [Sir John Sulston: A Genomic Portrait](http://web.archive.org/web/20080116051000/http:/www.ncl.ac.uk/hatton/programme/2002/portraitimagelinks/Quinn.htm) by Marc Quinn \[Web page archived by Internet Archive on January 16, 2008\]
-    - [Gary Schneider](https://www.artsy.net/artist/gary-schneider)
+    - {{% resource_link "696d8ee7-dd4d-4bf6-af88-4a53f62e0e8f" "Kevin Clarke's portraits" %}} (e.g. Friedrich von Schiller, John Cage, from the Blood of Poets)
+    - {{% resource_link "97f8284b-9ee1-41d6-b6f5-1141d64a592b" "Sir John Sulston: A Genomic Portrait" %}} by Marc Quinn \[Web page archived by Internet Archive on January 16, 2008\]
+    - {{% resource_link "d49f3f28-5d8e-420c-9d16-720f6f0a25ab" "Gary Schneider" %}}
 - Text
-    - [Felix Gonzalex-Torres](http://web.archive.org/web/20070128112500/http:/members.aol.com/mindwebart3/portrait.htm) \[Web page archived by Internet Archive on January 28, 2007\]
+    - {{% resource_link "c840abbe-954a-4260-a903-71560c4cb3d9" "Felix Gonzalex-Torres" %}} \[Web page archived by Internet Archive on January 28, 2007\]
 - Alternative media
-    - Jim Campbell, [Portrait of My Mother, Portrait of My Father](http://www.brown.edu/Facilities/David_Winton_Bell_Gallery/covers_campbell_zoom.html)
+    - Jim Campbell, {{% resource_link "f6575feb-4494-4644-bea9-d34e8e8e8b19" "Portrait of My Mother, Portrait of My Father" %}}
     - Philip Glass portrait of Chuck Close
-        - Recording ([MP3](http://www.musicsalesclassical.com/composer/work/34883#))
-        - McGrath, Charles. "[A Portraitist Whose Canvas Is a Piano](http://www.nytimes.com/2005/04/22/arts/music/22glas.html?pagewanted=1&n=Top/Reference/Times%20Topics/People/C/Close,%20Chuck)." *The New York Times*, April 22, 2005.
+        - Recording ({{% resource_link "dca6cbba-782a-4d02-a1a7-707426367983" "MP3" %}})
+        - McGrath, Charles. "{{% resource_link "a09abb17-93fd-405d-a652-1fb724614c35" "A Portraitist Whose Canvas Is a Piano" %}}." *The New York Times*, April 22, 2005.
         - Comita, Jenny. "Portrait of the Artist: Chuck Close and his Work are the Subject of a New Ballet." *W Magazine*, November 2007.
 - Time series
-    - [Diego Goldberg family portraits: The Arrow of Time](http://zonezero.com/magazine/essays/diegotime/time.html)
-    - [Nicholas Nixon: The Brown Sisters](https://www.sfmoma.org/artwork/2016.516?gclid=EAIaIQobChMI2t-Hns6x2QIVb7ftCh3DDgsOEAMYASAAEgKnePD_BwE)
+    - {{% resource_link "50c5d74e-d8a7-4cdd-b365-290dbb889c06" "Diego Goldberg family portraits: The Arrow of Time" %}}
+    - {{% resource_link "80679feb-6f8e-44ea-92cf-216258341d65" "Nicholas Nixon: The Brown Sisters" %}}
 - Material collections
-    - [The Grocery List Collection](http://www.grocerylists.org/)
+    - {{% resource_link "1a3d4a9d-98b3-49ea-b31d-9be074b418ff" "The Grocery List Collection" %}}
 
 ## Assignment
 
@@ -62,11 +62,11 @@ West, Shearer. "What is a Portrait?" and "The Functions of Portraiture." Chapter
 
 ## Student Work
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/03/fabrication-of-idenity.html)
+{{% resource_link "acd21101-6271-4066-bae4-cac9f378e5a9" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/03/assignments-5.html)
+{{% resource_link "ab78f05b-7bb7-4ae1-96ac-d789b4f19bde" "Sohin Hwang" %}}
 
-[Lana Swartz](http://designingsociablemedia08.blogspot.com/2008/03/response-5-varieties-of-portraiture.html)
+{{% resource_link "2320e8f7-8c44-4391-8d43-975787638724" "Lana Swartz" %}}
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 « Back: {{% resource_link "a57d864a-39b7-2ccb-3b43-c50782e6cd00" "Assignments" %}}

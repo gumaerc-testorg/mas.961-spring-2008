@@ -34,21 +34,21 @@ Other privacy concerns are more insidious. Much of the work we have done in this
 Readings
 --------
 
-Marx, Gary. "[Murky Conceptual Waters: The Public and the Private](http://mit.edu/gtmarx/www/murkypublicandprivate.html)." _Ethics and Information Technology_ 3, no. 3 (2001): 157-169.
+Marx, Gary. "{{% resource_link "1856d023-08f4-44e7-8fd0-99e533e6381b" "Murky Conceptual Waters: The Public and the Private" %}}." _Ethics and Information Technology_ 3, no. 3 (2001): 157-169.
 
-Elmer, Greg. "[A Diagram of Panoptic Surveillance](http://nms.sagepub.com/cgi/content/abstract/5/2/231)." _New Media & Society_ 5, no. 2 (2003): 231-247. DOI: 10.1177/1461444803005002005. (This article provides a bridge between concepts of surveillance as a primarily visual activity and as a data analysis process.)
+Elmer, Greg. "{{% resource_link "faffba80-b367-4d3e-9c7e-e230e0af155f" "A Diagram of Panoptic Surveillance" %}}." _New Media & Society_ 5, no. 2 (2003): 231-247. DOI: 10.1177/1461444803005002005. (This article provides a bridge between concepts of surveillance as a primarily visual activity and as a data analysis process.)
 
-Foucault, Michel. "[Panopticism](http://foucault.info/documents/disciplineAndPunish/foucault.disciplineAndPunish.panOpticism.html)." Chapter 3 in _Discipline & Punish: The Birth of the Prison_. Translated from the French by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 9780679752554. (This is the classic work on "panoptic surveillance.")
+Foucault, Michel. "{{% resource_link "f2543846-f107-48da-bd96-7cbb8d025c2d" "Panopticism" %}}." Chapter 3 in _Discipline & Punish: The Birth of the Prison_. Translated from the French by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 9780679752554. (This is the classic work on "panoptic surveillance.")
 
-Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ([PDF](http://wearcam.org/cyborg_and_community/cyborg42deview.pdf))
+Mann, Steve, Jason Nolan, and Barry Wellman. "Sousveillance: Inventing and Using Wearable Computing Devices for Data Collection in Surveillance Environments." _Surveillance & Society_ 1, no. 3 (2003): 331-355. ({{% resource_link "262fcb49-6bd0-47b2-a80e-06e3543b42fb" "PDF" %}})
 
-Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[[Preview](http://books.google.com/books?id=4zzeoi1jU5oC&pg=PA69=onepage) in Google Books\]
+Schor, Juliet. "The Virus Unleashed: Ads Infiltrate Everyday Life," and "Dissecting the Child Consumer: The New Intrusive Research." Chapters 4 and 6 in _Born to Buy: The Commercialized Child and the New Consumer Culture_. New York, NY: Simon and Schuster, 2004. ISBN: 9780684870557. \[{{% resource_link "39f02753-a62d-4a5e-b1b6-067fef766deb" "Preview" %}} in Google Books\]
 
 ### Optional
 
-Mann, Steve. "[Existential Technology: Wearable Computing Is Not the Real Issue!](https://doi.org/10.1162/002409403321152239)" _Leonardo_ 36, no. 1 (2003): 19-25.
+Mann, Steve. "{{% resource_link "a1160b5d-5733-4fc4-bf65-aaee2e10aa74" "Existential Technology: Wearable Computing Is Not the Real Issue!" %}}" _Leonardo_ 36, no. 1 (2003): 19-25.
 
-Carl, Walter J. "[What's All The Buzz About?: Everyday Communication and the Relational Basis of Word-of-Mouth and Buzz Marketing Practices](http://mcq.sagepub.com/cgi/content/abstract/19/4/601)." _Management Communication Quarterly_ 19, no. 4 (2006): 601-634. DOI: 10.1177/0893318905284763.
+Carl, Walter J. "{{% resource_link "a6c9a65d-ce9f-4e97-87f0-ac1d85b83826" "What's All The Buzz About?: Everyday Communication and the Relational Basis of Word-of-Mouth and Buzz Marketing Practices" %}}." _Management Communication Quarterly_ 19, no. 4 (2006): 601-634. DOI: 10.1177/0893318905284763.
 
 Assignment
 ----------
@@ -59,9 +59,9 @@ Assignment
 Student Work
 ------------
 
-[Seth Hunter](http://designingsociablemedia.blogspot.com/2008/05/supertraces-discussion-questions-public.html)
+{{% resource_link "15d7a89a-589f-4d8b-8b7b-17d49ef28136" "Seth Hunter" %}}
 
-[Sohin Hwang](http://dsm2008.blogspot.com/2008/05/four-questions.html)
+{{% resource_link "c13b9202-0e21-4638-8091-16c79bb665e1" "Sohin Hwang" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
